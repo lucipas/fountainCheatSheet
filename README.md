@@ -3,4 +3,6 @@
 
 
 ## TOC
-  *
+  * [Snippets](code/snippets.md)
+  * [Modules](modules/modules.md)
+  * [Syntax](syntax/syntax.md)
